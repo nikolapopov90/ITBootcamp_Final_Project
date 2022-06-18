@@ -1,6 +1,6 @@
 # ITBootcamp_Final_Project
-This is the final project of a IT Bootcamp course that took place online, from April to mid June 2022. 
-The project is a small representation of what I managed to learn at the course.
+This is the final project of IT Bootcamp course that took place online, from April to mid June 2022. 
+The project is a small representation of what I managed to learn during this time period.
 I used Java to test various features of the demo website designed for QA (https://demoqa.com/) over the 5 days time frame. 
 Considering this was my first ever project, there were series of challenges. However, I am extremely happy how it turned out in the end.
 I will continue to test other features of the website, because I really believe that I learned a lot by doing this project.
