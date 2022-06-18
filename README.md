@@ -130,4 +130,4 @@ These are the cases that I automated in Java.
 
 # Credits
 
-I had a great experience during the course. The teachers and everyone from https://itbootcamp.rs/ were absolutelly fantastic, and I really learned a lot of new things.
+I had a great experience during the course. The teachers and everyone from https://itbootcamp.rs/ were absolutely fantastic, and I really learned a lot of new things.
